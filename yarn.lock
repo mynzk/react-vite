@@ -1217,14 +1217,6 @@ commitizen@^4.0.3, commitizen@^4.3.0:
     strip-bom "4.0.0"
     strip-json-comments "3.1.1"
 
-commitlint@^17.4.3:
-  version "17.4.3"
-  resolved "https://registry.yarnpkg.com/commitlint/-/commitlint-17.4.3.tgz#10fc4140fc8a46bbeb7aa0e7367b08534efb9928"
-  integrity sha512-3MGkngRG3x3KY5uKWxgyKK7WU5apelorn4jeJsu8aCotuaoPXYtZX8Ym7a/ZzB19UUuWADnKWVTWBePvweu3aA==
-  dependencies:
-    "@commitlint/cli" "^17.4.3"
-    "@commitlint/types" "^17.4.0"
-
 compare-func@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/compare-func/-/compare-func-2.0.0.tgz#fb65e75edbddfd2e568554e8b5b05fff7a51fcb3"
